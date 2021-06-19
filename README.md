@@ -1,2 +1,2 @@
 # Water-Footprint-Calculator
-Code In Place Final Project
+CS106A Stanford University Final Project
